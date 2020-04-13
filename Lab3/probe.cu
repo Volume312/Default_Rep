@@ -16,7 +16,7 @@ int main(int argc, char const *argv[])
 	//code from the book
 
 	//get  device count
-	printf("Alibek's remote machine:\n")
+	printf("Alibek's remote machine:\n");
 	int count;
 	HANDLE_ERROR(cudaGetDeviceCount(&count));
 	printf("number of GPU devices: %d\n\n", count);
