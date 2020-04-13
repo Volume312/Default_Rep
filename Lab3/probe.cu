@@ -61,6 +61,6 @@ int main(int argc, char const *argv[])
 	                  prop.maxGridSize[2]);
 	    printf("\n");
 	}
-	printf("Please see my code for changes I made\n")
+	printf("Please see my code for changes I made\n");
 	return 0;
 }
